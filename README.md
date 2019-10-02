@@ -5,10 +5,10 @@ Use this application to assign a student to one of four classes at hogwarts. Aft
 
 
 ## Screenshots
-![Sorting Hat Preview]()
-![Sorting Hat Preview]()
-![Sorting Hat Preview]()
-![Sorting Hat Preview]()
+![Sorting Hat Preview](https://raw.githubusercontent.com/jbkey2015/sorting-hat/master/screenshots/Annotation%202019-10-01%20201730.png)
+![Sorting Hat Preview](https://raw.githubusercontent.com/jbkey2015/sorting-hat/master/screenshots/Annotation%202019-10-01%20201900.png)
+![Sorting Hat Preview](https://raw.githubusercontent.com/jbkey2015/sorting-hat/master/screenshots/Annotation%202019-10-01%20201946.png)
+![Sorting Hat Preview](https://raw.githubusercontent.com/jbkey2015/sorting-hat/master/screenshots/Annotation%202019-10-01%20202011.png)
 
 ## How to run
 * Clone down this project
